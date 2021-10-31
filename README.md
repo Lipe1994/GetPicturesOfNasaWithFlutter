@@ -1,16 +1,13 @@
-# clean_arch_with_flutter
+# GetPicturesOfNasaWithFlutte
 
-A new Flutter project.
+A new Flutter project with clean architecture
 
-## Getting Started
+Projeto criado para treinar 'clean architecture' acompanhando videos da [Leticia Baleiro](https://github.com/LeBaleiro), no [youtube](https://www.youtube.com/watch?v=odr59ZAx-IU)
 
-This project is a starting point for a Flutter application.
+Fiz algumas alterações como reduzir de 2 telas para 1 com mais funções(alterar data para frente e para trás sem o datepicker), ajustei um pouco a arquitetura de acordo com uma estrutura que estou mais acostumado, este projeto é uma ótima forma de praticar flutter.
 
-A few resources to get you started if this is your first Flutter project:
+![exemplo 01](screenshot01.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![exemplo 02](screenshot02.png)
+

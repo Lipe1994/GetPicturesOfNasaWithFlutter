@@ -1,4 +1,4 @@
-# GetPicturesOfNasaWithFlutte
+# GetPicturesOfNasaWithFlutter
 
 A new Flutter project with clean architecture
 
